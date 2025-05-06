@@ -1,0 +1,14 @@
+logica\RecargasJpaController.class
+logica\exceptions\NonexistentEntityException.class
+logica\ClienteJpaController.class
+modelo\Celular_.class
+logica\CelularJpaController.class
+logica\exceptions\PreexistingEntityException.class
+modelo\Cliente_.class
+modelo\Celular.class
+modelo\Cliente.class
+modelo\Recargas_.class
+modelo\Recargas.class
+logica\Validacion.class
+presentacion\Examen_Trabajo2.class
+logica\exceptions\IllegalOrphanException.class
